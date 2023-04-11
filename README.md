@@ -27,6 +27,6 @@ Your task is to provide APIs for a frontend application that satisfies all [Prod
 - We value quality over feature-completeness. The goal of this code sample is to help us identify what you consider production-ready code. You should consider this code ready for final review with your colleague!
 
 ## How to submit
-Create a private repository on GitHub and invite [rafalzawadzki](https://github.com/rafalzawadzki) to it.
+Create a private repository on GitHub and invite [@junebugfix](https://github.com/junebugfix) to it.
 
 Optionally, send us a link to a deployed version on Heroku or any other service that will expose that API for testing.
